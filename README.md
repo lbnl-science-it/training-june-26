@@ -21,4 +21,4 @@ Prerequisite: A user account is preferred but not required.
 If you are interested in having an account on the Lawrencium supercluster, please visit our documentation for guidelines.
 
 ## [Training Slides](https://docs.google.com/presentation/d/e/2PACX-1vRdljw5jAiGpwD9FhaseGjHrJpcwCFvgvjA6Mb3xH45bgGzGElSKoqFW4tJGoUwyYOX-2ngOZPmQ6qZ/pub?start=false&loop=false&delayms=3000)
-## [Training Video Recording](https://drive.google.com/file/d/11noVQgKAfjWVCrlrgELMkLQ_v4rIo5Ko/view?usp=drive_link)
+## [Training Video Recording](https://drive.google.com/file/d/18vQePJN1furcrYBqYHCKNRFS5UfuOQxj/view?usp=drive_link)
