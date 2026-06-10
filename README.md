@@ -20,6 +20,7 @@ In this 1.5-hour session, we will cover:
 Please fill out the information below to secure your spot. If you have any questions prior to the event, please contact us at scienceithelp@lbl.gov.
 
 Prerequisite: A user account is preferred but not required.
+
 If you are interested in having an account on the Lawrencium supercluster, please visit our documentation for guidelines.
 
 ## [Training Slides](https://docs.google.com/presentation/d/e/2PACX-1vRdljw5jAiGpwD9FhaseGjHrJpcwCFvgvjA6Mb3xH45bgGzGElSKoqFW4tJGoUwyYOX-2ngOZPmQ6qZ/pub?start=false&loop=false&delayms=3000)
