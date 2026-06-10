@@ -17,7 +17,9 @@ In this 1.5-hour session, we will cover:
 **National Research Platform (NRP):** How to create an account, deploy containers, and use managed services like JupyterHub on this global Kubernetes cluster.
 
 **Ray on Lawrencium:** How to leverage the new Ray module and the Ray Cluster Open OnDemand app for parallel and distributed Python execution.
-Please fill out the information below to secure your spot. If you have any questions prior to the event, please contact us at scienceithelp@lbl.gov.
+Please fill out the information below to secure your spot. 
+
+If you have any questions prior to the event, please contact us at scienceithelp@lbl.gov.
 
 Prerequisite: A user account is preferred but not required.
 
