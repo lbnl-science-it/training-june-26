@@ -1,4 +1,5 @@
-# training-june-26
+# Lawrencium Training : Distributed & AI-Ready: NRP & Ray Cluster
+
 **Clone this repo for the NRP hands-on**
 
 This training session introducing new AI, ML, and distributed computing tools available to the LBNL research community.
